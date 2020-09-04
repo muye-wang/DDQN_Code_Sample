@@ -1,7 +1,7 @@
 # DDQN_Code_Sample
 A Double DQN Application on Limit Order Book data
 
-This is an implementation of Double-DQN using tensorflow v1 on limit order book data. 
+This is an implementation of Double-DQN using tensorflow v1.4 on limit order book data. 
 
 This is mostly for demostration purpose and the data isn't linked to the code. 
 
